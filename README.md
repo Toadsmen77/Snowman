@@ -1,3 +1,2 @@
-# Snowman
+# Snowman Printer
 When a CS student is too introverted to play outside in the snow...
-fun snowman program for snow day 2021
